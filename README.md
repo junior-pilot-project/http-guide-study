@@ -6,7 +6,7 @@ http 가이드 책스터디 입니다.
 
 # 😇 규칙
 * 주 1회 토요일 오전
-* 순서) BellKim -> seohaun -> SoonMyeong -> yunrap -> YOUNGHOON95
+* 순서) BellKim -> YOUNGHOON95 -> SoonMyeong -> yunrap -> seohaun
 
 # 🙂 스터디 방식
 * 매 주 지정된 발표자가 1장씩 발표
